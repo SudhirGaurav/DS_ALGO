@@ -1,4 +1,4 @@
-package com.exampole.test;
+package com.example.test;
 
 public class FixedSlidingWindow {
 
